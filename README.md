@@ -11,3 +11,6 @@ ventana_principal.geometry("500x500")
 
 # bucle principal
 ventana_principal.mainloop()
+
+# bucle principal
+ventana_principal.mainloop()
